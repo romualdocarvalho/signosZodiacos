@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é um signo de fogo, conhecido por sua energia, coragem e espírito aventureiro. Os arianos são naturalmente líderes, pioneiros e competitivos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é um signo de terra, conhecido por sua persistência, praticidade e apreciação pelo conforto material. Os taurinos são determinados e leais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é um signo de ar, conhecido por sua versatilidade, curiosidade e habilidade comunicativa. Os geminianos são adaptáveis e intelectuais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é um signo de água, conhecido por sua sensibilidade, intuição e forte conexão com a família. Os cancerianos são protetores e emocionais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é um signo de fogo, conhecido por sua criatividade, carisma e liderança natural. Os leoninos são generosos e buscam reconhecimento.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é um signo de terra, conhecido por sua atenção aos detalhes, praticidade e perfeccionismo. Os virginianos são analíticos e prestativos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é um signo de ar, conhecido por seu senso de justiça, diplomacia e busca pelo equilíbrio. Os librianos são sociáveis e harmoniosos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é um signo de água, conhecido por sua intensidade, mistério e poder de transformação. Os escorpianos são determinados e perspicazes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é um signo de fogo, conhecido por seu otimismo, amor pela liberdade e busca pelo conhecimento. Os sagitarianos são aventureiros e filosóficos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é um signo de terra, conhecido por sua ambição, disciplina e senso de responsabilidade. Os capricornianos são determinados e práticos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é um signo de ar, conhecido por sua originalidade, independência e visão humanitária. Os aquarianos são inovadores e progressistas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é um signo de água, conhecido por sua intuição, sensibilidade e compaixão. Os piscianos são sonhadores e empáticos.</descricao>
+    </signo>
+</signos>
